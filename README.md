@@ -8,9 +8,10 @@ I will use this repository to upload my tutorial notebooks for coding exercises 
 ## Books 
 I am using the the following two books to study this course:
 
-### [Data Structures and Algorithms in Pythoneb](https://www.wiley.com/college/goodrich "Data Structures and Algorithms in Python") Data Structures and
-       Algorithms in Python by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser.
+### [Data Structures and Algorithms in Python](https://www.wiley.com/college/goodrich) 
+Data Structures and Algorithms in Python by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser.
 
-### [Problem Solving with Algorithms and Data Structures](https://runestone.academy/runestone/books/published/pythonds/index.html "Problem Solving with Algorithms and Data Structures") Problem Solving with Algorithms and Data Structures.
+### [Problem Solving with Algorithms and Data Structures](https://runestone.academy/runestone/books/published/pythonds/index.html) 
+Problem Solving with Algorithms and Data Structures.
 
 Asif
